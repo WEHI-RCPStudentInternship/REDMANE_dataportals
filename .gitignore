@@ -1,0 +1,21 @@
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml
+*.dockerenv
+
+# Environment variables
+.env
+*.env
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
